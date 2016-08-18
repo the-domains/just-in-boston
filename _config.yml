@@ -1,29 +1,41 @@
-name: Just-In-Boston
-favicon: null
-layout_spectrum: 0.51045
-typography_spectrum: 0.49906
 title: Fitness Adventure Travel Vacations
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5930247511714697
+  brandStrength: 0.5
+  lightness: 0.5830536261200905
+  brandColors:
+    - '#2A0318'
+    - '#F1F0D2'
+    - '#83151C'
+    - '#B55938'
+    - '#DD9548'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Just-In-Boston
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#042b7f'
-    - '#369716'
-    - '#94d27f'
-    - '#7789a9'
-  brandStrength: 0.5
-  lightness: 0.5830536261200905
-  saturation: 0.5930247511714697
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.49906
+layout_spectrum: 0.51045

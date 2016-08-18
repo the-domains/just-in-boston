@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fitness Adventure Travel Vacations]]></title>
+        <description><![CDATA[Fitness Adventure Travel Vacations]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 16:02:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We have liftoff! First attempt at The Grid, a new web dev tool in Beta stage. Reviews of this entirely new idea for a web application have been less than stellar, given all the pre-release hype claiming to transform how we view web pages. By using a "matrix" or Grid, web pages are capable of adjusting color, content layout, and many other visual improvements, based on the content the user provides. </p>]]></description>
+            <link>undefinedwe-have-liftoff-first-attempt-at-the-grid-a-new-web-dev-to/index.html</link>
+            <guid isPermaLink="false">b6675611-bb70-45e0-a59d-7a3f5840c0aa</guid>
+            <pubDate>Thu, 18 Aug 2016 16:02:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
